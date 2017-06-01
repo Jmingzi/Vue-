@@ -8,6 +8,12 @@ vue2.0/vue-router/vuex 相关知识点整理
 
 ### vue第三方收集整理
 
+[UI 组件]
 + [mouse-ui](https://github.com/Jmingzi/muse-ui)
 + [element](https://github.com/ElemeFE/element)
 + [mint-ui](https://github.com/ElemeFE/mint-ui)
+
+[vue2.0 demo 站点]
+
++ [Vue-cnodejs](https://github.com/Jmingzi/Vue-cnodejs)
++ [daily-zhihu](https://github.com/walleeeee/daily-zhihu)
