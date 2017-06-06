@@ -7,9 +7,11 @@ vue2.0/vue-router/vuex 相关知识点整理
 
 
 ### vue第三方收集整理
+[框架]
++ [nuxtjs](https://zh.nuxtjs.org/) Vue.js 通用应用框架
 
 [UI 组件]
-+ [mouse-ui](https://github.com/Jmingzi/muse-ui)
++ [mouse-ui](https://github.com/Jmingzi/muse-ui)  
 + [element](https://github.com/ElemeFE/element)
 + [mint-ui](https://github.com/ElemeFE/mint-ui)
 
